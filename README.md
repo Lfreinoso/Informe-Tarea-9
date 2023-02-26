@@ -13,10 +13,15 @@ NRC: 10067
 # 1. OBJETIVOS
  OBJETIVO GENERAL
  
+ - Identificar conceptos esenciales de la materia de fundamentos de circuitos eléctricos por medio de una lectura comprensiva en distintas fuentes bibliográficas que contengan información verídica, tomando como referencia el libro de Floyd, para aumentar el conocimiento y plasmarlo en un documento escrito tipo informe.
 
  OBJETIVOS ESPECÍFICOS
  
+- Analizar conceptos básicos de los temas circuitos RCL y resonancia, así como, Filtros pasivos, correspondientes al capítulo 17 y 18 del libro de Floyd, que nos adentren al mundo de los circuitos eléctricos.
 
+- Revisar distintas paginas web, para tener un mejor enfoque y conocimiento en base al tema a tratar.
+
+- Realizar un informe que contenga solo información importante, para ayudar al lector a comprender conceptos de los circuitos eléctricos
  
 
 
@@ -24,10 +29,14 @@ NRC: 10067
 
 - CAPÍTULO 17
 
+![image](https://user-images.githubusercontent.com/116655812/221387937-d425b553-6998-4ce4-abaa-668b844fd804.png)
+
 
 
 
 - CAPÍTULO 18
+
+![image](https://user-images.githubusercontent.com/116655812/221387944-2dea941d-284e-4cd2-a5a6-7167854521b6.png)
 
 
 
@@ -224,18 +233,68 @@ La potencia a la frecuencia crítica baja es la mitad de la potencia en condici�
 
 
 
-
-
-
-
-
-
-
-
 - CAPÍTULO 18 (EJERCICIOS IMPARES)
 
+1. En cierto filtro pasabajas, XC � 500 Æ y R � 2.2 kÆ. ¿Cuál es el voltaje de salida (Vsal) cuando la en�trada es de 10 V rms?En cierto filtro pasabajas, XC � 500 Æ y R � 2.2 kÆ. ¿Cuál es el voltaje de salida (Vsal) cuando la en�trada es de 10 V rms?
+
+![image](https://user-images.githubusercontent.com/116655812/221387517-24ff9c26-cec1-4c20-a2dc-cdfbc8af7ee6.png)
+
+2. Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia especi�ficada cuando Vent � 10
+
+![image](https://user-images.githubusercontent.com/116655812/221387532-474bfb37-1af4-45ee-af98-c5c2c5c4c6a1.png)
+
+3. Para el filtro de la figura 18-39, calcule el valor de C requerido para cada una de las siguientes frecuen�cias críticas: (a) 60 Hz (b) 500 Hz (c) 1 kHz (d) 5 kHz
+
+![image](https://user-images.githubusercontent.com/116655812/221387549-fa881ae4-9aa9-48c4-8a0c-e9990545a4b5.png)
+
+4. El voltaje de entrada a un filtro RC pasabajas es de 8 V rms. Determine el voltaje de salida a los si�guientes niveles de dB: (a)-1dB (b)-3dB (c)-6dB (d)-20dB
+
+![image](https://user-images.githubusercontent.com/116655812/221387557-b5baaed0-4b23-4467-87c2-538af4bc2a1c.png)
+
+5. En un filtro pasaaltas, XC � 500 Æ y R � 2.2 kÆ. ¿Cuál es el voltaje de salida (Vsal) cuando Vent 10 V rms?
+
+![image](https://user-images.githubusercontent.com/116655812/221387566-c27074e6-e2aa-413a-a3e3-9f0ed4da1528.png)
+ 
+6. Determine el voltaje de salida de cada filtro mostrado en la figura 18-41 a la frecuencia especificada cuando Vent � 10 V.
+
+![image](https://user-images.githubusercontent.com/116655812/221387575-bc470a89-3a05-4926-b592-b222fac5b869.png)
+
+![image](https://user-images.githubusercontent.com/116655812/221387585-859322b7-4bea-42ce-88e3-36670ea78b75.png)
 
 
+7. Determine la frecuencia central para cada filtro de la figura 18-43.
+
+![image](https://user-images.githubusercontent.com/116655812/221387596-0ab04ed0-5b28-4939-b953-e1372b48b2dc.png)
+
+![image](https://user-images.githubusercontent.com/116655812/221387611-7d6325ca-fc60-4380-9b83-3aa7e7c04360.png)
+
+![image](https://user-images.githubusercontent.com/116655812/221387615-2cca57f1-0364-43fd-a652-8ccc3b47c7a2.png)
+
+
+8. ¿Cuáles son las frecuencias críticas alta y baja para cada filtro de la figura 18-43? Suponga que la res�puesta es simétrica con respecto a f0.
+
+![image](https://user-images.githubusercontent.com/116655812/221387620-1aac8a63-0ed0-4b7d-b3a9-d65de63a2f83.png)
+
+![image](https://user-images.githubusercontent.com/116655812/221387628-9895128f-a1ed-4c08-a40a-7cb0f7afa17e.png)
+
+![image](https://user-images.githubusercontent.com/116655812/221387635-08cf22d7-ac3a-457c-97ca-13c378457cdc.png)
+
+9. Si la resistencia de devanado de las bobinas que aparecen en la figura 18-44 es de 4 Æ, ¿cuál es el vol�taje de salida en condición de resonancia cuando Vent � 120 V?
+
+![image](https://user-images.githubusercontent.com/116655812/221387646-868c424a-18bb-4478-a22e-e89a539e1917.png)
+
+![image](https://user-images.githubusercontent.com/116655812/221387659-0db8a054-4d24-46fe-a938-6984f8f0bbfb.png)
+
+11. Diseñe un filtro pasabanda utilizando un circuito resonante paralelo que satisfaga las siguientes espe�cificaciones: AB � 500 Hz; Q � 40; e IC(máx) � 20 mA, VC(máx) � 2
+
+
+13.Determine los valores de L1 y L2 en la figura 18-48 para dejar pasar una señal con frecuencia de 1200 kHz y rechazar una señal con frecuencia de 456 kHz
+
+![image](https://user-images.githubusercontent.com/116655812/221387691-ad9a4c07-7433-4d51-adc0-b659931e08bf.png)
+
+![image](https://user-images.githubusercontent.com/116655812/221387698-be6ea632-9cf5-4eb9-89d1-7eaf9a62f094.png)
+
+![image](https://user-images.githubusercontent.com/116655812/221387704-b3879bb4-035d-4755-a84a-5d0ef6ecafe4.png)
 
 
 # 4. VIDEO 
@@ -245,6 +304,11 @@ https://youtu.be/uwAgarlBWWI
 
 # 5. CONCLUSIONES 
 
+- Los conceptos básicos son necesarios para un mejor entendimiento de los circuitos eléctricos, mostrando un uso correcto los conocimientos para la resolucion de circuitos con bases solidas en la solucion de sistemas ecuaciones con numeros complejos que brindan ayuda en los cálculos de voltajes, corrientes y resistencias, además gracias al calculo de impedancias se puede analizar circuitos de corriente alterna.
+
+- La revisión de material didáctico aporto en gran cantidad con la información requerida para el aprendizaje y sirvió como método de guía al tema.
+
+- La elaboración del documento escrito es de gran ayuda para plasmar el conocimiento adquirido, mostrando, por medio de la utilización de ejemplos, el uso correcto de fórmulas, para aplicar de manera adecuada en los teoremas aprendidos en estos capítulos.
 
 # 6.BIBLIOGRAFÍA
 
